@@ -3,5 +3,27 @@
     "bootstrap": "^5.1.3",
     "inquirer": "^8.2.0",
     "jest": "^27.5.1"
-  }
+  },
+  "name": "team-profile-generator",
+  "description": "Team Profile Generator is a node.js command line application that creates an HTML page when basic information for team members is added to the prompt.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSanchez486/team-profile-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSanchez486/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/CSanchez486/team-profile-generator#readme"
 }
